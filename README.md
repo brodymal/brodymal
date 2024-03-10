@@ -1,5 +1,4 @@
-rogue lineage faceless
-learner
+Computer Science student at Texas State University
 
 <!---
 brodymal/brodymal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
