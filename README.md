@@ -1,4 +1,4 @@
-Computer Science student at Texas State University
+Computer Science student at Texas State University | 
 Languages: Java
 
 <!---
